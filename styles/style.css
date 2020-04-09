@@ -1,0 +1,51 @@
+#myCanvas {
+    height: 2em;
+    width: 2em;
+    border: 2px solid black;
+}
+
+#heartAnimation {
+    height: 200px;
+    width: 200px;
+}
+
+html { 
+    background: url('/images/calm-body-of-water-1363876.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.musicImages {
+    align-self: flex-end;
+    margin-top: 25px;
+    margin-right: 25px;
+}
+
+.prompt {
+    animation-name: prompt;
+    animation-duration: 4s;
+}
+
+@keyframes prompt {
+
+    0% {
+        right: 0px;
+    }
+
+    50% {
+        right: 50%;
+    }
+
+    100% {
+        left: 0px;
+    }
+
+}
