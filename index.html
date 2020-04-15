@@ -19,52 +19,39 @@
             <div class = "musicImages">
 
                 <div class = "slideshow">
-                    <div class = "slides">
-                        <img class = "image" src = "images/colorful-flower-on-dark-tropical-260nw-721703848.webp" alt = "freathing dragok">
-                        <div class = "captionTxt">Song 1</div>
+                    <div class = "slides fade">
+                        <img class = "image" src = "images/dog-647528__340.webp" alt = "Dog howling at the moon at night under a shilouette of a tree">
+                        <div class = "captionTxt">Saturday Nights - Khalid</div>
                     </div>
 
-                    <div class = "slides">
-                        <img class = "image" src = "images/dog-647528__340.webp" alt = "freathing dragok">
-                        <div class = "captionTxt">Song 2</div>
+                    <div class = "slides fade">
+                        <img class = "image" src = "images/azalea-5012549_640.jpg" alt = "freathing dragok">
+                        <div class = "captionTxt">Demons - Alec Benjamin</div>
                     </div>
 
-                    <div class = "slides">
-                        <img class = "image" src = "images/" alt = "freathing dragok">
-                        <div class = "captionTxt">Song 3</div>
+                    <div class = "slides fade">
+                        <img class = "image" src = "images/girl-447701_640.jpg" alt = "freathing dragok">
+                        <div class = "captionTxt">Ceremony - Casey</div>
                     </div>
 
-                    <div class = "slides">
-                        <img class = "image" src = "images/" alt = "freathing dragok">
-                        <div class = "captionTxt">Song 4</div>
+                    <div class = "slides fade">
+                        <img class = "image" src = "images/way-918900_640.jpg" alt = "freathing dragok">
+                        <div class = "captionTxt">White Flag - Normandie</div>
                     </div>
 
-                    <div class = "slides">
-                        <img class = "image" src = "images/" alt = "freathing dragok">
-                        <div class = "captionTxt">Song 5</div>
+                    <div class = "buttonImg" id = "prevButton">
+                        <button type = "button" onclick = "plusSlides(-1)">&#60;</button>
                     </div>
-
-                    <div class = "button" id = "prevButton">
-                        <button type = "button">&#60;</button>
-                    </div>
-                    <div class = "button" id = "nextButton">
-                        <button type = "button">&#62;</button>
-                    </div>
-
-                    <div class = "dotSpace">
-                        <span class = "dot"></span>
-                        <span class = "dot"></span>
-                        <span class = "dot"></span>
-                        <span class = "dot"></span>
-                        <span class = "dot"></span>
+                    <div class = "buttonImg" id = "nextButton">
+                        <button type = "button" onclick = "plusSlides(1)">&#62;</button>
                     </div>
 
                 </div>
 
                 <div class = "music">
-                    <audio controls>
-                        <source src = "./audio/lobo.mp3" type = "audio/mp3">
-                        Your browser does not support audio.
+                    <audio id = "playlist" controls>
+                        <source src = "./audio/Khalid - Saturday Nights (Official Audio).mp3" type = "audio/mp3">
+                        Your browser does not support the <code>audio</code> element.
                     </audio>
                 </div>
                 
@@ -74,7 +61,7 @@
                 <div class = "video">
                     <video id = "heartAnimation">
                         <source src = "animation/y2mate.com - Broken Heart [Animation]___4_AMrZhGU_1080p.mp4" type = "video/mp4">
-                        Your browser does not support video.
+                        Your browser does not support the <code>audio</code> element.
                     </video>
                 </div>
             </div>

@@ -1,5 +1,10 @@
 I started this project to express my feelings and put into action what I think could help me during heartbreak. Yeap, I've been heartbroken, seems silly to get heartbroken when it's someone you deeply love and care about but who doesn't see you in the same way. This is about a 'breakup' who is a very close friend to me, probably my best friend. It may seem small compared to real couples but I feel the hurt. Hope this helps. I am trying to make an artsy website so its pretty difficult. Wanted to make this website all those going through heartbreak to express some of their thoughts and immerse in the feelings..
 
 Credits:
-Natji Nightmare for the animation of a broken heart: https://www.youtube.com/watch?v=__4_AMrZhGU
-Background photo by travis blessing from Pexels
+- Natji Nightmare for the animation of a broken heart: https://www.youtube.com/watch?v=__4_AMrZhGU
+- Background photo by travis blessing from Pexels
+- Khalid for Saturday Nights..hope I don't get copyrighted or something, Im not making money of this.
+- Image for by <a href="https://pixabay.com/users/DanaTentis-2743349/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2042536">DanaTentis</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2042536">Pixabay</a>
+- Image for  by <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=918900">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=918900">Pixabay</a>
+- Image by <a href="https://pixabay.com/users/Nel_Botha-NZ-1267169/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4492789">Nel Botha</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4492789">Pixabay</a>
+- Image by <a href="https://pixabay.com/users/Greyerbaby-2323/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=447701">lisa runnels</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=447701">Pixabay</a>
